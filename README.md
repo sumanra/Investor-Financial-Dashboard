@@ -17,5 +17,9 @@ All data to exist on MySQL DB
 Power BI slicer automation
 
 **Project MEMBERS:**
-* James Jean-Jacques
-* Suman Raj
+* [James Jean-Jacques](https://github.com/jjjacques)
+* [Suman Raj](https://github.com/sumanra)
+
+### Accreditation
+
+I worked on this project with [Suman Raj](https://github.com/sumanra) and [James Jean-Jacques](https://github.com/jjjacques).
