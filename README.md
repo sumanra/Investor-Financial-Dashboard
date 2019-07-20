@@ -20,6 +20,3 @@ Power BI slicer automation
 * [James Jean-Jacques](https://github.com/jjjacques)
 * [Suman Raj](https://github.com/sumanra)
 
-### Accreditation
-
-I worked on this project with [Suman Raj](https://github.com/sumanra) and [James Jean-Jacques](https://github.com/jjjacques).
