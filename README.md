@@ -1,5 +1,5 @@
 # Investor-Financial-Dashboard
-![dashboard](img/dashboard.jpg)
+![dashboard](img/dashboard.JPG)
 
 
 An Interactive Financial Dashboard for investors who are interested in obtaining Technical stock insights of various companies including various financial institution stocks.
